@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Open source innovates faster, spreads faster, does great work faster than any single company can.
 
 You can use the [editor on GitHub](https://github.com/sphgd/ossaas/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
